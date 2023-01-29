@@ -19,7 +19,7 @@ A Frontend Mentor challenge replacating a design using only html and css.
 
 ### Screenshot
 
-![screenshot](/images/screenshot.png.jpg)
+![screenshot](/images/screenshot.png)
 
 
 ### Links

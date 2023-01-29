@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-A Frontend Mentor challenge replacating a design using only html and css. 
+A Frontend Mentor challenge replicating a design using only html and css. 
 
 ### Screenshot
 

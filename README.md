@@ -24,7 +24,7 @@ A Frontend Mentor challenge replacating a design using only html and css.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [(https://www.frontendmentor.io/solutions/frontend-mentor-qr-code-component-solution-fgSQiPjVUL)](https://your-solution-url.com)
 - Live Site URL: [https://tppseudo.github.io/https-github.com-TPpseudo-Frontend-Mentor---QR-code-component-solution/]
 
 ### Built with
